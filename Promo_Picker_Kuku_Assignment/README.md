@@ -1,6 +1,6 @@
 # Promo Picker - Kuku AI Generalist Assignment (Problem 1)
 
-This is my small student project to help an editor pick promo moments from episode scripts. It looks for **20-60-second continuous clips**, ranks them, and shows the hook, possible cliffhanger, and exact timestamps.
+This is my small project to help an editor pick promo moments from episode scripts. It looks for **20-60-second continuous clips**, ranks them, and shows the hook, possible cliffhanger, and exact timestamps.
 
 I built it so **it works without any API key**. The offline score is a simple rule-based baseline, **not** a trained model. There is also an optional Gemini evaluation for people who want to use an LLM to re-check the results. The original baseline outputs are preserved, and a separate local Streamlit run reviewed 15 top candidates using Gemini.
 
