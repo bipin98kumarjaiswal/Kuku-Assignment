@@ -1,0 +1,39 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A museum volunteer finds out that a valuable painting has disappeared.
+SCENE 01
+Scene start: 00:00.00
+Scene end: 01:20.00
+**NINA (Shocked):**
+Start: (00:01.00) | End: (00:04.00)
+"The painting is gone!"
+**ARJUN (Confused):**
+Start: (00:05.00) | End: (00:09.00)
+"That room was locked all night."
+**ACTION:**
+Start: (00:11.00) | End: (00:14.00)
+Nina discovers muddy footprints under the empty frame.
+**NINA (Demanding):**
+Start: (00:17.00) | End: (00:21.00)
+"Then tell me who had the spare key."
+**ARJUN (Nervous):**
+Start: (00:25.00) | End: (00:30.00)
+"The curator gave it to someone yesterday."
+**ACTION:**
+Start: (00:32.00) | End: (00:36.00)
+The lights suddenly go out in the gallery.
+**NINA (Whispering):**
+Start: (00:39.00) | End: (00:42.00)
+"I think somebody is still here."
+**ARJUN (Afraid):**
+Start: (00:46.00) | End: (00:50.00)
+"I can hear footsteps behind the door."
+**ACTION:**
+Start: (00:53.00) | End: (00:57.00)
+Someone slides a letter across the floor.
+**NINA (Reading):**
+Start: (01:00.00) | End: (01:05.00)
+"If you want to find the painting, come alone."
+**ARJUN (Shocked):**
+Start: (01:08.00) | End: (01:12.00)
+"Who sent that message?"
+--- SCRIPT END ---
